@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @alv128
+- I am a Data Scientist, with experience in Computer Vision and NLP
 - 👀 I’m interested in Software Engineering and Machine Learning
 
 
