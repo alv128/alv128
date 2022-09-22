@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alv128
-- I am a Data Scientist working on computer vision and nlp
-- 👀 I’m interested in Software Engineering and Machine Learning
+- I am a data scientist working on computer vision and nlp
+- 👀 I’m interested in machine learning and software engineering
 
 
 <!---
